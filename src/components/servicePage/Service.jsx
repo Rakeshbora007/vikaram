@@ -50,7 +50,7 @@ const Service = () => {
                 <motion.div className="box" variants={variants} whileHover={{ background: "lightgray", color: 'black' }}>
                     <h2>Mobile Developer</h2>
                     <p>
-                        With 5 years of experience in mobile app development, I specialize in crafting intuitive and impactful experiences for iOS and Android platforms. My journey in the tech industry has led me to the heart of NYC, where I thrive in the dynamic ecosystem of innovation and collaboration.
+                        My journey in the tech industry has led me to the heart of NYC, where I thrive in the dynamic ecosystem of innovation and collaboration.
                     </p>
                     <button>
                         Go
@@ -59,7 +59,7 @@ const Service = () => {
                 <motion.div className="box" whileHover={{ background: "lightgray", color: 'black' }}>
                     <h2>Backend developer</h2>
                     <p>
-                        I bring a wealth of expertise in building scalable and reliable systems that form the backbone of modern applications. My journey in the tech industry has led me to the heart of NYC, where I thrive in the fast-paced environment of innovation and collaboration.
+                        My journey in the tech industry has led me to the heart of NYC, where I thrive in the fast-paced environment of innovation and collaboration.
                     </p>
                     <button>
                         Go
@@ -68,7 +68,7 @@ const Service = () => {
                 <motion.div className="box" variants={variants} whileHover={{ background: "lightgray", color: 'black' }} >
                     <h2>UI/UX Developer</h2>
                     <p>
-                        Explore my portfolio to discover a diverse range of projects, each highlighting my expertise in UI/UX design across various platforms and industries. Whether it's designing intuitive mobile apps for startups, revamping e-commerce platforms for established brands, or optimizing user journeys for web applications,
+                     Whether it's designing intuitive mobile apps for startups, revamping e-commerce platforms for established brands, or optimizing user journeys for web applications,
                     </p>
                     <button>
                         Go
